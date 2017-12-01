@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'startup-page';
   src:
-    url('asset/font/startup-page.ttf?6wvgbp') format('truetype'),
-    url('asset/font/startup-page.woff?6wvgbp') format('woff'),
-    url('asset/font/startup-page.svg?6wvgbp#startup-page') format('svg');
+    url('asset/font/startup-page.ttf?6gl795') format('truetype'),
+    url('asset/font/startup-page.woff?6gl795') format('woff'),
+    url('asset/font/startup-page.svg?6gl795#startup-page') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -34,4 +34,13 @@
 }
 .icon-startuploop2:before {
   content: "\ea2e";
+}
+.icon-startupfacebook:before {
+  content: "\ea90";
+}
+.icon-startupinstagram:before {
+  content: "\ea92";
+}
+.icon-startuptwitter:before {
+  content: "\ea96";
 }
